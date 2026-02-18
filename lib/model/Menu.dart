@@ -19,6 +19,5 @@ class Menu{
     Menu(iconData: Icons.bus_alert_outlined, title: "Transport", color: Colors.orange),
 
 
-
   ];
 }
